@@ -1,0 +1,16 @@
+[
+{ "word": "Red", "translation": "Красный" },
+{ "word": "Blue", "translation": "Синий" },
+{ "word": "Green", "translation": "Зеленый" },
+{ "word": "Yellow", "translation": "Желтый" },
+{ "word": "Orange", "translation": "Оранжевый" },
+{ "word": "Purple", "translation": "Фиолетовый" },
+{ "word": "Pink", "translation": "Розовый" },
+{ "word": "Black", "translation": "Черный" },
+{ "word": "White", "translation": "Белый" },
+{ "word": "Gray", "translation": "Серый" },
+{ "word": "Spring", "translation": "Весна" },
+{ "word": "Summer", "translation": "Лето" },
+{ "word": "Autumn", "translation": "Осень" },
+{ "word": "Winter", "translation": "Зима" }
+]
